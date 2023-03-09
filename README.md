@@ -1,2 +1,2 @@
 # Html-Hata-Sayfasi
-HTML Hata Sayfası
+Sitenizde Herhangi Bir Dosyaya Ziyaretçilerin Erişimini Kısıtlamak İstiyorsanız Bu Dosyayı Kullanabilirsiniz.
